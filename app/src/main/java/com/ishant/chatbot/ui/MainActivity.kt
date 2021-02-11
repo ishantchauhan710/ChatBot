@@ -1,7 +1,8 @@
-package com.ishant.chatbot
+package com.ishant.chatbot.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.ishant.chatbot.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
