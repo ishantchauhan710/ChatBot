@@ -38,7 +38,7 @@
             android:layout_weight="1"
             android:gravity="center"
             android:background="@drawable/round_button"
-            android:backgroundTint="#673AB7"
+            android:backgroundTint="#070113"
             android:text="Send"
             android:textSize="20sp"
             android:textColor="@android:color/white" />
@@ -55,7 +55,7 @@
         tools:listitem="@layout/message_item" />
     <View
         android:layout_width="match_parent"
-        android:layout_height="10dp"
+        android:layout_height="0dp"
         android:background="#42A5F5"
         android:id="@+id/dark_divider"/>
 
